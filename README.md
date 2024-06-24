@@ -1,8 +1,5 @@
 # Yiren Wang
 
-0466264046 | wangyiren1997@126.com  
-[LinkedIn](https://www.linkedin.com/in/yiren-wang-9b9421280/)
-
 ## EDUCATION
 
 ### University of Western Australia (UWA) – Perth WA
@@ -21,7 +18,7 @@ Honors: The President Scholarship, International Students Scholarship
 
 ### University of Western Australia – Perth WA
 **Statistic Teaching Assistant**  
-02/2024 – Current  
+02/2024 – current  
 - Organized and led weekly tutorial sessions for over 50 students in statistics course.
 - Provided support to students in comprehension of statistical concepts and academic problem-solving.
 - Received A rating based on feedback from students.
