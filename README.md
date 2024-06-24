@@ -8,6 +8,11 @@
 Related Courses: Machine Learning, Natural Language Processing, Open-Source Tools and Scripting, Deep Learning  
 Honors: The Global Excellence Scholarship
 
+### Universität Potsdam (UP) – Potsdam Brandenburg
+**Mathematics**  
+04/2022 – 10/2022  
+Related Courses: Computational Topology, Computational Linear Algebra
+
 ### Trinity Western University (TWU) – Langley BC
 **Bachelor of Science Mathematics**  
 09/2016 – 12/2020  
