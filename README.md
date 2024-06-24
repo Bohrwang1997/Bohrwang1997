@@ -21,7 +21,7 @@ Honors: The President Scholarship, International Students Scholarship
 
 ### University of Western Australia – Perth WA
 **Statistic Teaching Assistant**  
-02/2024 – 06/2024  
+02/2024 – Current  
 - Organized and led weekly tutorial sessions for over 50 students in statistics course.
 - Provided support to students in comprehension of statistical concepts and academic problem-solving.
 - Received A rating based on feedback from students.
